@@ -1,0 +1,2 @@
+# composertest
+A Composer test
